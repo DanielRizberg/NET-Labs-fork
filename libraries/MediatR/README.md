@@ -3,8 +3,8 @@
 > Demo: Example project that consume and demonstrate MediatR functionality and integration in ASP.NET/.NET Core.
 
 ## Work in progress
-
-
+##source article
+https://medium.com/dotnet-hub/use-mediatr-in-asp-net-or-asp-net-core-cqrs-and-mediator-in-dotnet-how-to-use-mediatr-cqrs-aspnetcore-5076e2f2880c
 Please refer to below article of my publication [.NET Hub](https://medium.com/dotnet-hub):
 
 - [Use MediatR in ASP.NET or ASP.NET Core](https://medium.com/dotnet-hub)
